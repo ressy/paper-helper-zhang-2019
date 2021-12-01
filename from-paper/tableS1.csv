@@ -1,0 +1,12 @@
+Name,Sequence,Group,Comments
+IGHG,TGCTCTSGGAGGTGCTC,Reverse transcription (GSP1),
+IGHD,GCACGCTGATGTGATGG,Reverse transcription (GSP1),
+IGHA,GACCACGTTATCTGACTG,Reverse transcription (GSP1),
+IGHE,CAGGGGATCAAGGGGAA,Reverse transcription (GSP1),
+IGHM,GGCATTCTCACAGGAGAC,Reverse transcription (GSP1),
+BtgZI-AAP,GATTGACGCGATGGIIGGGIIGG,PCR primer synthesis (AAP and GSP2),BtgZ I=GCGATG; anchor=GIIGGGIIGG
+mIGHG,CTSGGAGGTGCTCCTGGA,PCR primer synthesis (AAP and GSP2),
+mIGHD,GCACGCTGATATGATGGGG,PCR primer synthesis (AAP and GSP2),
+mIGHA,AGACCTTGGGKYTGGTCGG,PCR primer synthesis (AAP and GSP2),
+mIGHM,GTTGGGGCGGATGCACTC,PCR primer synthesis (AAP and GSP2),
+mIGHE,ACGAAGGGGCTCTGTATG,PCR primer synthesis (AAP and GSP2),

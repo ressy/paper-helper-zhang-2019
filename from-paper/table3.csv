@@ -1,0 +1,12 @@
+Sequence ID,Flag,Nearest Corresponding Alleles,Mismatch/Gap,Supporting Individuals,Supporting Samples,Chromosome,Position
+VH2.70A*01c,Novel gene,VH2.25,11/0,8,28,chr7.unlocalized,NW_001122026.1:166-466
+VH2.70A*02c,Novel allele,VH2.25,13/0,3,11,chr7.unlocalized,NW_001122026.1:166-466
+VH2.71A*01c,Novel gene,VH2-2*01|VH2.3,9/0,10,31,Unplaced,NW_001149230.1:276-576
+VH3.68A*01c,Novel gene,VH3.58,19/0,6,29,chr7,NC_007864.1:169676578-169676874
+VH3.72A*01c,Novel gene,VH3-9*01,11/0,3,12,Unplaced,NW_001149231.1:1032-1327
+VH3.72A*02c,Novel allele,VH3-9*01,13/0,11,50,Unplaced,NW_001149231.1:1032-1327
+VH4.73A*01c,Novel gene,VH4.37,8/0,8,39,Unplaced,NW_001149510.1:279-574
+VH4.73C*01c,Novel gene,Human_VH4-59*04,21/0,2,9,Unplaced,NW_001149510.1:279-572
+VH4.73B*01c,Novel gene,VH4.37,16/0,2,8,Unplaced,NW_001149510.1:279-572
+VH4.73A*02c,Novel allele,VH4.37,8/1,2,10,Unplaced,NW_001149510.1:279-574
+VH7.69A*01c,Novel gene,Human_VH7-4-1*02,25/0,1,4,chr7.unlocalized,NW_001122023.1:392299-392586

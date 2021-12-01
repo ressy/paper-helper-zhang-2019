@@ -1,0 +1,21 @@
+Sequence ID,Flag,Nearest Corresponding Alleles,Functionality,Mismatch/Gap,Supporting Individuals,Supporting Samples
+IGHJ1*01ac,Known,IGHJ1*01,F,0/0,15,75
+IGHJ1*02c,Novel allele,IGHJ1*01,F,1/0,6,24
+IGHJ2*01ac,Known,IGHJ2*01,ORF,0/0,15,73
+IGHJ2*02c,Novel allele,IGHJ2*01,ORF,1/0,6,17
+IGHJ2*03c,Novel allele,IGHJ2*01,ORF,2/0,7,33
+IGHJ3*01ac,Known,IGHJ3*01,F,0/0,15,75
+IGHJ3*02c,Novel allele,IGHJ3*01,F,1/0,15,68
+IGHJ4*01ac,Known,IGHJ4*01,F,0/0,15,75
+IGHJ4*02c,Novel allele,IGHJ4*01,F,1/0,4,20
+IGHJ4*03c,Novel allele,IGHJ4*01,F,1/0,10,50
+IGHJ5-1*01ac,Known,IGHJ5-1*01,F,0/0,11,55
+IGHJ5-1*02c,Novel allele,IGHJ5-1*01,F,1/0,4,20
+IGHJ5-1*03c,Novel allele,IGHJ5-1*01,F,1/0,2,9
+IGHJ5-1*04c,Novel allele,IGHJ5-1*01,F,1/0,6,30
+IGHJ5-2*02ac,Novel allele,IGHJ5-2*02,F,0/0,15,75
+IGHJ5-2*03c,Novel allele,IGHJ5-2*02,F,1/0,9,45
+IGHJ5-2*04c,Novel allele,IGHJ5-2*02,F,1/0,4,20
+IGHJ6*01ac,Known,IGHJ6*01,F,0/0,15,75
+IGHJ6*02c,Novel allele,IGHJ6*01,F,1/0,10,43
+IGHJ6*03c,Novel allele,IGHJ6*01,F,1/0,3,8
